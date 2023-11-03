@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sasikumar659800/jothidrinks-app/static/css/main.904a05b6.css",
+    "main.js": "/sasikumar659800/jothidrinks-app/static/js/main.56fcb7f0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sasikumar659800/jothidrinks-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/sasikumar659800/jothidrinks-app/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bottle3.png": "/sasikumar659800/jothidrinks-app/static/media/bottle3.892de54f65234bef8234.png",
+    "static/media/bootstrap-icons.woff2?": "/sasikumar659800/jothidrinks-app/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/drinks1.jpg": "/sasikumar659800/jothidrinks-app/static/media/drinks1.00cd22b6bec04ae01b26.jpg",
+    "static/media/bottle1.png": "/sasikumar659800/jothidrinks-app/static/media/bottle1.4a98716122577bcf4daf.png",
+    "static/media/bottle2.png": "/sasikumar659800/jothidrinks-app/static/media/bottle2.8d5f21498a9587464e54.png",
+    "static/media/drinks2.jpg": "/sasikumar659800/jothidrinks-app/static/media/drinks2.19fb7aff4d103e3f911e.jpg",
+    "static/media/drinks3.jpg": "/sasikumar659800/jothidrinks-app/static/media/drinks3.8fb66fc48835d82ac555.jpg",
+    "index.html": "/sasikumar659800/jothidrinks-app/index.html",
+    "main.904a05b6.css.map": "/sasikumar659800/jothidrinks-app/static/css/main.904a05b6.css.map",
+    "main.56fcb7f0.js.map": "/sasikumar659800/jothidrinks-app/static/js/main.56fcb7f0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sasikumar659800/jothidrinks-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.904a05b6.css",
+    "static/js/main.56fcb7f0.js"
+  ]
+}
